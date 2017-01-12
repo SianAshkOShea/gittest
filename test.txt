@@ -1,2 +1,4 @@
+t
+quit
 Hello world
 Goodbye cruel world
